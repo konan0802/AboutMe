@@ -1,12 +1,12 @@
 # template
-## :computer:技術関連
+## 技術関連:computer:
 ### Work
 ### Priv
 
-## :books:読書
+## 読書:books:
 
-## :memo:アウトプット
+## アウトプット:memo:
 
-## :eyes:振り返り
+## 振り返り:eyes:
 
-## :clap:所感
+## 所感:clap:
