@@ -1,12 +1,12 @@
 # template
 ## 技術関連:computer:
-### Work
-### Priv
+### 【Work】
+### 【Priv】
 
 ## 読書:books:
 
 ## 振り返り:eyes:
-### Keep
-### Problem
-### Try
+### 【Keep】
+### 【Problem】
+### 【Try】
 ## 所感:clap:
