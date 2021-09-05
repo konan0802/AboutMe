@@ -11,18 +11,18 @@
 
 ## 技術スキル
 ### Backend
-* php
-* Golang
-* python
+* php（★★★☆）
+* Golang（★★☆☆）
+* python（★☆☆☆）
 ### Infra
-* AWS
-* Alibaba
-* Docker
+* AWS（★★★☆）
+* Alibaba（★☆☆☆）
+* Docker（★★☆☆）
 ### DB
-* MySQL
-* Elasticsearch
+* MySQL（★★★☆）
+* Elasticsearch（★★★☆）
 ### Extra
-* TwitterAPI
+* TwitterAPI（★★★☆）
 
 ## 職務経歴詳細
 ### 株式会社CINC（2020/04~）
