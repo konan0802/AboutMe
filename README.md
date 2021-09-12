@@ -14,7 +14,7 @@
 <br>
 
 ### 運用方針
-* [MonthlyReview/](MonthlyReview)を追うだけで、これまで考えていたことに辿れるのがベター
+* [MonthlyReview/](MonthlyReview)を追うだけで、これまで考えていたことに辿れる
 * 書籍やイベントなどの振り返りは[Storage/](Storage)に記載するが、その要約を[MonthlyReview/](MonthlyReview)に記載し、[Storage/](Storage)のリンクから辿れるようにする
 * Evernoteは主に「思考の整理」に利用して、決まったことを[MonthlyReview/](MonthlyReview)に記載する形でまとめる
 
