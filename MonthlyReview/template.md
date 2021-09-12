@@ -6,7 +6,7 @@
 ## 読書:books:
 
 ## 振り返り:eyes:
-### 【Keep】
-### 【Problem】
-### 【Try】
+### 【Y】
+### 【W】
+### 【T】
 ## 所感:clap:
