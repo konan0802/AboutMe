@@ -11,16 +11,16 @@
 
 ## 技術スキル
 ### Backend
-* php（★★★☆）
+* php（★★☆☆）
 * Golang（★★☆☆）
 * python（★☆☆☆）
 ### Infra
-* AWS（★★★☆）
+* AWS（★★☆☆）
 * Alibaba（★☆☆☆）
-* Docker（★★☆☆）
+* Docker（★☆☆☆）
 ### DB
-* MySQL（★★★☆）
-* Elasticsearch（★★★☆）
+* MySQL（★★☆☆）
+* Elasticsearch（★★☆☆）
 ### Extra
 - TwitterAPI（★★★☆）
 
